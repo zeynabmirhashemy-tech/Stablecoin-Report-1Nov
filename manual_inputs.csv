@@ -1,0 +1,22 @@
+key,value,unit,as_of,source,link,note
+mmf_us_assets,7901.0,USD bn,2026-10-28,"ICI, Money Market Fund Assets, weekly release 29 Oct 2026",https://www.ici.org/research/stats/mmf,Week ended 28 Oct 2026
+mmf_us_assets_may,7626.0,USD bn,2026-04-29,"ICI, Money Market Fund Assets, weekly release",https://www.ici.org/research/stats/mmf,"Week ended 29 Apr 2026 (comparison only, not used in a figure)"
+payments_real_total,390.0,USD bn per year,2025-12,"McKinsey & Company (2026a), with Artemis",https://www.mckinsey.com/industries/financial-services/our-insights/stablecoins-in-payments-what-the-raw-transaction-numbers-miss,"Real stablecoin payments, annualised from December 2025"
+payments_global_total,2000000.0,USD bn per year,2025,McKinsey & Company (2026a),https://www.mckinsey.com/industries/financial-services/our-insights/stablecoins-in-payments-what-the-raw-transaction-numbers-miss,About USD 2 quadrillion; used only for the 'about 0.02%' figure
+payments_B2B,226.0,USD bn per year,2025-12,McKinsey & Company (2026b),https://www.mckinsey.com/featured-insights/charts/stablecoins-find-their-niche,
+payments_C2C,77.0,USD bn per year,2025-12,McKinsey & Company (2026b),https://www.mckinsey.com/featured-insights/charts/stablecoins-find-their-niche,
+payments_C2B,76.0,USD bn per year,2025-12,McKinsey & Company (2026b),https://www.mckinsey.com/featured-insights/charts/stablecoins-find-their-niche,
+payments_B2C,11.0,USD bn per year,2025-12,McKinsey & Company (2026b),https://www.mckinsey.com/featured-insights/charts/stablecoins-find-their-niche,Remainder 390 - 226 - 77 - 76; McKinsey labels it business-to-consumer
+penetration_B2B,0.01,% of all B2B payments,2025,McKinsey & Company (2026b),https://www.mckinsey.com/featured-insights/charts/stablecoins-find-their-niche,
+penetration_C2C,0.37,% of all C2C payments,2025,McKinsey & Company (2026b),https://www.mckinsey.com/featured-insights/charts/stablecoins-find-their-niche,
+penetration_C2B,0.11,% of all C2B payments,2025,McKinsey & Company (2026b),https://www.mckinsey.com/featured-insights/charts/stablecoins-find-their-niche,
+penetration_B2C,0.01,% of all B2C payments,2025,McKinsey & Company (2026b),https://www.mckinsey.com/featured-insights/charts/stablecoins-find-their-niche,
+tether_assets,191.45,USD bn,2026-09-30,Tether Q3 2026 attestation (BDO Italia),https://tether.io/transparency/,Total reserve assets
+tether_liabilities,183.5,USD bn,2026-09-30,Tether Q3 2026 attestation (BDO Italia),https://tether.io/transparency/,
+circle_reserves,74.0,USD bn,2026-09-30,"Crypto Briefing (2026), Circle Q3 2026 reserves",https://cryptobriefing.com,About USD 74 bn
+usdc_outstanding,73.9,USD bn,2026-09-30,"Crypto Briefing (2026), Circle Q3 2026 reserves",https://cryptobriefing.com,
+hchf_min_ratio,1.1,x,,HLiquity documentation,https://hliquity.org,Minimum collateral ratio
+chfm_collateral,119575.0,USD (USDm),2026-11-20,"Mento reserve dashboard, CHFm CDP",https://reserve.mento.org,Collateral in Mento dollars
+chfm_debt_value,61991.0,USD,2026-11-20,"Mento reserve dashboard, CHFm CDP",https://reserve.mento.org,"USD value of the 52,176 CHFm outstanding, at the dashboard's rate"
+chfm_outstanding,52176.0,CHFm,2026-11-20,"Mento reserve dashboard, CHFm CDP",https://reserve.mento.org,
+chfm_min_ratio,1.5,x,,Mento documentation,https://docs.mento.org,Minimum collateral ratio

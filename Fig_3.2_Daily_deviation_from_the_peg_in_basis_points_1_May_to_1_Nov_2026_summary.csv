@@ -1,0 +1,6 @@
+coin,days_with_price,days_left_out_volume_below_1000,days_used,mean_abs_deviation_bp,days_outside_50bp,share_days_outside_50bp_%,max_abs_deviation_bp,days_above_plus_160bp
+CHFAU,90,37,53,15.262,3,5.66,152.113,0
+ZCHF,185,0,185,13.648,1,0.541,69.034,0
+VCHF,185,0,185,49.05,46,24.865,704.556,12
+USDT,185,0,185,6.117,0,0.0,25.054,0
+USDC,185,0,185,3.188,0,0.0,24.078,0

@@ -1,0 +1,10 @@
+coin,issuer,launched,chf_m_1_may,chf_m_1_nov,growth_%,share_of_chf_coins_%,share_of_all_stablecoins_%
+CHFAU,AllUnity GmbH (Frankfurt),26 Feb 2026,4.43,35.1686,693.8689,48.3748,0.0144
+ZCHF,None; Frankencoin Association stewards it (Zug),2023,30.6184,35.0004,14.3118,48.1434,0.0143
+VCHF,VNX Global Ltd. (Bermuda; before: Liechtenstein),15 Dec 2022,2.6559,2.4106,-9.2341,3.3158,0.001
+CHFm,None; Mento protocol (Celo),6 Jun 2025,0.0703,0.0729,3.7131,0.1002,0.0
+HCHF,None; HLiquity protocol by Swisscoast AG,5 Jun 2024,0.1265,0.0478,-62.2346,0.0657,0.0
+CHF24,"SR Saphirstein AG (Fiat24, Zurich)",Unknown,1.7801,1.2818,-27.9961,,
+CHF-S,"Safirum AG (Rotkreuz, Zug)",3 Nov 2026,,,,,
+All CHF coins,,,37.9011,72.7003,91.8159,100.0,0.0297
+All CHF coins without CHFAU,,,33.471,37.5317,12.1318,,

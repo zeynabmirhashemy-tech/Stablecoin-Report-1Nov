@@ -1,0 +1,219 @@
+time,message
+2026-11-22 23:54:10,"Download started; steps: manual, fred, ecb, snb, worldbank, defillama, yields, protocols, coingecko, chf_onchain, chf24; CoinGecko key: yes"
+2026-11-22 23:54:10,Manual inputs: figures from reports and web pages
+2026-11-22 23:54:10,  saved data/manual_inputs.csv (21 rows)
+2026-11-22 23:54:10,FRED: US M1 and M2
+2026-11-22 23:54:13,  saved data/fred_series.csv (186 rows)
+2026-11-22 23:54:13,ECB: euro-area M1 and M2
+2026-11-22 23:54:19,  saved data/ecb_euro_money.csv (186 rows)
+2026-11-22 23:54:19,"SNB data portal: Swiss money, SARON and exchange rates"
+2026-11-22 23:54:19,  saved data/snb_snbmonagg.csv (8032 rows)
+2026-11-22 23:54:20,  saved data/snb_zimoma.csv (8554 rows)
+2026-11-22 23:54:22,  saved data/snb_devkum.csv (73116 rows)
+2026-11-22 23:54:22,World Bank: GDP of the euro area and Switzerland
+2026-11-22 23:54:23,  saved data/wb_gdp_emu_che.csv (8 rows)
+2026-11-22 23:54:23,DefiLlama: list of all stablecoins
+2026-11-22 23:54:23,  saved data/dl_coins_list.csv (453 rows)
+2026-11-22 23:54:23,"DefiLlama: total stablecoin supply history, by currency (USD)"
+2026-11-22 23:54:23,  saved data/dl_total_supply_history.csv (3281 rows)
+2026-11-22 23:54:23,DefiLlama: supply history of the 10 largest blockchains
+2026-11-22 23:54:32,  saved data/dl_chain_history.csv (16891 rows)
+2026-11-22 23:54:32,DefiLlama: history of each of the 453 stablecoins (takes several minutes)
+2026-11-22 23:55:06,  ... 50 coins done
+2026-11-22 23:55:36,  ... 100 coins done
+2026-11-22 23:56:10,  ... 150 coins done
+2026-11-22 23:56:37,  ... 200 coins done
+2026-11-22 23:57:02,  ... 250 coins done
+2026-11-22 23:57:26,  ... 300 coins done
+2026-11-22 23:57:49,  ... 350 coins done
+2026-11-22 23:58:13,  ... 400 coins done
+2026-11-22 23:58:36,  ... 450 coins done
+2026-11-22 23:58:37,  saved data/dl_all_coins_on_dates.csv (453 rows)
+2026-11-22 23:58:37,  saved data/dl_coin_history.csv (25864 rows)
+2026-11-22 23:58:37,  saved data/dl_chf_chain_split_on_dates.csv (24 rows)
+2026-11-22 23:58:37,"  NOTE: per-coin supplies are in each coin's own currency (CHF coins in CHF, euro coins in EUR)."
+2026-11-22 23:58:37,DefiLlama Yields: all pools today
+2026-11-22 23:58:38,  saved data/dl_yield_pools_all_now.csv (14958 rows)
+2026-11-22 23:58:38,  history of 2440 pools with at least USD 1 m (10-30 minutes)
+2026-11-22 23:58:51,"  rate limited, waiting 60 s"
+2026-11-23 00:00:05,"  rate limited, waiting 60 s"
+2026-11-23 00:01:14,"  rate limited, waiting 60 s"
+2026-11-23 00:02:20,"  rate limited, waiting 60 s"
+2026-11-23 00:03:31,"  rate limited, waiting 60 s"
+2026-11-23 00:04:40,"  rate limited, waiting 60 s"
+2026-11-23 00:05:55,"  rate limited, waiting 60 s"
+2026-11-23 00:07:08,"  rate limited, waiting 60 s"
+2026-11-23 00:08:13,"  rate limited, waiting 60 s"
+2026-11-23 00:09:20,  ... 200 of 2440 pools done
+2026-11-23 00:09:23,"  rate limited, waiting 60 s"
+2026-11-23 00:10:32,"  rate limited, waiting 60 s"
+2026-11-23 00:11:43,"  rate limited, waiting 60 s"
+2026-11-23 00:12:56,"  rate limited, waiting 60 s"
+2026-11-23 00:14:09,"  rate limited, waiting 60 s"
+2026-11-23 00:15:14,"  rate limited, waiting 60 s"
+2026-11-23 00:16:24,"  rate limited, waiting 60 s"
+2026-11-23 00:17:32,"  rate limited, waiting 60 s"
+2026-11-23 00:18:42,"  rate limited, waiting 60 s"
+2026-11-23 00:19:55,"  rate limited, waiting 60 s"
+2026-11-23 00:21:02,  ... 400 of 2440 pools done
+2026-11-23 00:21:09,"  rate limited, waiting 60 s"
+2026-11-23 00:22:15,"  rate limited, waiting 60 s"
+2026-11-23 00:23:25,"  rate limited, waiting 60 s"
+2026-11-23 00:24:34,"  rate limited, waiting 60 s"
+2026-11-23 00:25:45,"  rate limited, waiting 60 s"
+2026-11-23 00:26:57,"  rate limited, waiting 60 s"
+2026-11-23 00:28:10,"  rate limited, waiting 60 s"
+2026-11-23 00:29:16,"  rate limited, waiting 60 s"
+2026-11-23 00:30:26,"  rate limited, waiting 60 s"
+2026-11-23 00:31:35,"  rate limited, waiting 60 s"
+2026-11-23 00:32:45,"  rate limited, waiting 60 s"
+2026-11-23 00:33:46,  ... 600 of 2440 pools done
+2026-11-23 00:33:57,"  rate limited, waiting 60 s"
+2026-11-23 00:35:10,"  rate limited, waiting 60 s"
+2026-11-23 00:36:15,"  rate limited, waiting 60 s"
+2026-11-23 00:37:26,"  rate limited, waiting 60 s"
+2026-11-23 00:38:33,"  rate limited, waiting 60 s"
+2026-11-23 00:39:44,"  rate limited, waiting 60 s"
+2026-11-23 00:40:56,"  rate limited, waiting 60 s"
+2026-11-23 00:42:09,"  rate limited, waiting 60 s"
+2026-11-23 00:43:15,"  rate limited, waiting 60 s"
+2026-11-23 00:44:24,"  rate limited, waiting 60 s"
+2026-11-23 00:45:25,  ... 800 of 2440 pools done
+2026-11-23 00:45:32,"  rate limited, waiting 60 s"
+2026-11-23 00:46:42,"  rate limited, waiting 60 s"
+2026-11-23 00:47:53,"  rate limited, waiting 60 s"
+2026-11-23 00:49:06,"  rate limited, waiting 60 s"
+2026-11-23 00:50:14,"  rate limited, waiting 60 s"
+2026-11-23 00:51:21,"  rate limited, waiting 60 s"
+2026-11-23 00:52:30,"  rate limited, waiting 60 s"
+2026-11-23 00:53:40,"  rate limited, waiting 60 s"
+2026-11-23 00:54:51,"  rate limited, waiting 60 s"
+2026-11-23 00:56:03,  ... 1000 of 2440 pools done
+2026-11-23 00:56:04,"  rate limited, waiting 60 s"
+2026-11-23 00:57:13,"  rate limited, waiting 60 s"
+2026-11-23 00:58:19,"  rate limited, waiting 60 s"
+2026-11-23 00:59:29,"  rate limited, waiting 60 s"
+2026-11-23 01:00:38,"  rate limited, waiting 60 s"
+2026-11-23 01:01:49,"  rate limited, waiting 60 s"
+2026-11-23 01:03:01,"  rate limited, waiting 60 s"
+2026-11-23 01:04:13,"  rate limited, waiting 60 s"
+2026-11-23 01:05:17,"  rate limited, waiting 60 s"
+2026-11-23 01:06:27,"  rate limited, waiting 60 s"
+2026-11-23 01:07:36,"  rate limited, waiting 60 s"
+2026-11-23 01:08:41,  ... 1200 of 2440 pools done
+2026-11-23 01:08:46,"  rate limited, waiting 60 s"
+2026-11-23 01:09:58,"  rate limited, waiting 60 s"
+2026-11-23 01:11:11,"  rate limited, waiting 60 s"
+2026-11-23 01:12:16,"  rate limited, waiting 60 s"
+2026-11-23 01:13:26,"  rate limited, waiting 60 s"
+2026-11-23 01:14:35,"  rate limited, waiting 60 s"
+2026-11-23 01:15:46,"  rate limited, waiting 60 s"
+2026-11-23 01:16:58,"  rate limited, waiting 60 s"
+2026-11-23 01:18:11,"  rate limited, waiting 60 s"
+2026-11-23 01:19:15,"  rate limited, waiting 60 s"
+2026-11-23 01:20:20,  ... 1400 of 2440 pools done
+2026-11-23 01:20:25,"  rate limited, waiting 60 s"
+2026-11-23 01:21:33,"  rate limited, waiting 60 s"
+2026-11-23 01:22:43,"  rate limited, waiting 60 s"
+2026-11-23 01:23:55,"  rate limited, waiting 60 s"
+2026-11-23 01:25:09,"  rate limited, waiting 60 s"
+2026-11-23 01:26:15,"  rate limited, waiting 60 s"
+2026-11-23 01:27:24,"  rate limited, waiting 60 s"
+2026-11-23 01:28:33,"  rate limited, waiting 60 s"
+2026-11-23 01:29:43,"  rate limited, waiting 60 s"
+2026-11-23 01:30:55,"  rate limited, waiting 60 s"
+2026-11-23 01:32:00,  ... 1600 of 2440 pools done
+2026-11-23 01:32:09,"  rate limited, waiting 60 s"
+2026-11-23 01:33:14,"  rate limited, waiting 60 s"
+2026-11-23 01:34:23,"  rate limited, waiting 60 s"
+2026-11-23 01:35:33,"  rate limited, waiting 60 s"
+2026-11-23 01:36:43,"  rate limited, waiting 60 s"
+2026-11-23 01:37:56,"  rate limited, waiting 60 s"
+2026-11-23 01:39:09,"  rate limited, waiting 60 s"
+2026-11-23 01:40:15,"  rate limited, waiting 60 s"
+2026-11-23 01:41:24,"  rate limited, waiting 60 s"
+2026-11-23 01:42:32,"  rate limited, waiting 60 s"
+2026-11-23 01:43:40,  ... 1800 of 2440 pools done
+2026-11-23 01:43:42,"  rate limited, waiting 60 s"
+2026-11-23 01:44:53,"  rate limited, waiting 60 s"
+2026-11-23 01:46:06,"  rate limited, waiting 60 s"
+2026-11-23 01:47:13,"  rate limited, waiting 60 s"
+2026-11-23 01:48:21,"  rate limited, waiting 60 s"
+2026-11-23 01:49:29,"  rate limited, waiting 60 s"
+2026-11-23 01:50:38,"  rate limited, waiting 60 s"
+2026-11-23 01:51:48,"  rate limited, waiting 60 s"
+2026-11-23 01:53:01,"  rate limited, waiting 60 s"
+2026-11-23 01:54:13,"  rate limited, waiting 60 s"
+2026-11-23 01:55:16,"  rate limited, waiting 60 s"
+2026-11-23 01:56:17,  ... 2000 of 2440 pools done
+2026-11-23 01:56:27,"  rate limited, waiting 60 s"
+2026-11-23 01:57:35,"  rate limited, waiting 60 s"
+2026-11-23 01:58:45,"  rate limited, waiting 60 s"
+2026-11-23 01:59:57,"  rate limited, waiting 60 s"
+2026-11-23 02:01:10,"  rate limited, waiting 60 s"
+2026-11-23 02:02:15,"  rate limited, waiting 60 s"
+2026-11-23 02:03:25,"  rate limited, waiting 60 s"
+2026-11-23 02:04:33,"  rate limited, waiting 60 s"
+2026-11-23 02:05:43,"  rate limited, waiting 60 s"
+2026-11-23 02:06:55,"  rate limited, waiting 60 s"
+2026-11-23 02:07:56,  ... 2200 of 2440 pools done
+2026-11-23 02:08:08,"  rate limited, waiting 60 s"
+2026-11-23 02:09:14,"  rate limited, waiting 60 s"
+2026-11-23 02:10:23,"  rate limited, waiting 60 s"
+2026-11-23 02:11:31,"  rate limited, waiting 60 s"
+2026-11-23 02:12:40,"  rate limited, waiting 60 s"
+2026-11-23 02:13:52,"  rate limited, waiting 60 s"
+2026-11-23 02:15:05,"  rate limited, waiting 60 s"
+2026-11-23 02:16:13,"  rate limited, waiting 60 s"
+2026-11-23 02:17:20,"  rate limited, waiting 60 s"
+2026-11-23 02:18:29,"  rate limited, waiting 60 s"
+2026-11-23 02:19:33,  ... 2400 of 2440 pools done
+2026-11-23 02:19:38,"  rate limited, waiting 60 s"
+2026-11-23 02:20:49,"  rate limited, waiting 60 s"
+2026-11-23 02:21:53,  saved data/dl_yield_pools_tvl_on_dates.csv (2440 rows)
+2026-11-23 02:21:53,DefiLlama: collateral (TVL) history of Frankencoin and HLiquity
+2026-11-23 02:21:54,  frankencoin: chains used Ethereum
+2026-11-23 02:21:54,  hliquity: chains used Hedera
+2026-11-23 02:21:54,  saved data/dl_protocol_collateral_history.csv (1838 rows)
+2026-11-23 02:21:54,"CoinGecko: Bitcoin, Ether, USDT and USDC, daily history in USD"
+2026-11-23 02:22:05,  saved data/cg_comparators_history.csv (1460 rows)
+2026-11-23 02:22:05,"CoinGecko: the 100 largest crypto-assets (one history call each, several minutes)"
+2026-11-23 02:22:08,  saved data/cg_top_crypto_latest.csv (100 rows)
+2026-11-23 02:22:34,  ... 10 of 100 coins done
+2026-11-23 02:23:02,  ... 20 of 100 coins done
+2026-11-23 02:23:29,  ... 30 of 100 coins done
+2026-11-23 02:23:56,  ... 40 of 100 coins done
+2026-11-23 02:24:24,  ... 50 of 100 coins done
+2026-11-23 02:24:51,  ... 60 of 100 coins done
+2026-11-23 02:25:20,  ... 70 of 100 coins done
+2026-11-23 02:25:47,  ... 80 of 100 coins done
+2026-11-23 02:26:15,  ... 90 of 100 coins done
+2026-11-23 02:26:42,  ... 100 of 100 coins done
+2026-11-23 02:26:42,  saved data/cg_top_crypto_on_dates.csv (100 rows)
+2026-11-23 02:26:42,  saved data/cg_top_crypto_volume_on_dates.csv (100 rows)
+2026-11-23 02:26:42,"CoinGecko: Swiss franc coins, daily history in CHF, and their blockchains"
+2026-11-23 02:26:53,  saved data/cg_chf_coins_history.csv (1203 rows)
+2026-11-23 02:27:05,  saved data/cg_chf_contracts.csv (22 rows)
+2026-11-23 02:27:05,  NOTE: the free API returns at most 365 days of daily history.
+2026-11-23 02:27:05,"On-chain: CHFAU total supply (Ethereum, Base, Polygon)"
+2026-11-23 02:27:07,  Ethereum: https://ethereum-rpc.publicnode.com did not work (HTTP 403)
+2026-11-23 02:27:10,  Ethereum: using https://eth.drpc.org
+2026-11-23 02:29:56,  Base: https://base-rpc.publicnode.com did not work (HTTP 403)
+2026-11-23 02:30:17,  Base: using https://base.drpc.org
+2026-11-23 02:31:11,  Base 2026-03-09: no answer
+2026-11-23 02:33:32,  Base 2026-05-11: no answer
+2026-11-23 02:34:17,  Base 2026-06-15: no answer
+2026-11-23 02:35:23,  Base 2026-07-27: no answer
+2026-11-23 02:37:30,  Base 2026-09-28: no answer
+2026-11-23 02:38:57,  Base 2026-11-01: no answer
+2026-11-23 02:39:09,  Polygon: https://polygon-bor-rpc.publicnode.com did not work (HTTP 403)
+2026-11-23 02:39:13,  Polygon: using https://polygon.drpc.org
+2026-11-23 02:41:17,  saved data/chf_extra_supply_daily.csv (166 rows)
+2026-11-23 02:41:17,  saved data/chf_extra_supply_check.csv (3 rows)
+2026-11-23 02:41:17,On-chain: CHF24 (Fiat24) supply on Arbitrum and Mantle
+2026-11-23 02:41:21,  Arbitrum: using https://arbitrum-one.public.blastapi.io
+2026-11-23 02:41:44,  15 internal accounts found
+2026-11-23 02:41:51,  Mantle: using https://rpc.mantle.xyz
+2026-11-23 02:42:03,  saved data/chf24_supply.csv (3 rows)
+2026-11-23 02:42:03,  saved data/chf24_internal_accounts.csv (15 rows)
+2026-11-23 02:42:03,Finished. All steps worked.

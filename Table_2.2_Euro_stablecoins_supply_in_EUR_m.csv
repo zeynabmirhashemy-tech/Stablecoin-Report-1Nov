@@ -1,0 +1,28 @@
+symbol,issuer,authorised_in,eur_m_1_may,eur_m_1_nov,growth_%,in_report_table
+EURC,Circle,France,367.9752,452.5896,22.9946,True
+EURCV,Société Générale-FORGE,France,79.2242,170.5934,115.33,True
+EURI,Banking Circle,Luxembourg,50.9687,32.6386,-35.9635,True
+EURE,Monerium,Iceland (EEA),24.8747,26.0952,4.9067,True
+REUR,The RIB Digital Holdings Ltd,Hong Kong (not MiCA),0.0,15.0,,True
+EURR,StablR,Malta,11.053,14.4211,30.4728,True
+EUROP,Schuman Financial,France,7.209,13.9768,93.8813,True
+EURQ,Quantoz,Netherlands,17.1205,8.3205,-51.4003,True
+EURS,,,6.8526,6.8526,0.0,False
+EURT,,,4.1539,4.1539,-0.0,False
+IBEUR,,,3.0,3.0,0.0,False
+EURm,,,3.2639,1.4467,-55.6763,False
+EURA,,,2.4658,1.3569,-44.9705,False
+dEURO,,,0.0,1.169,,False
+PAR,,,1.0452,1.0844,3.7471,False
+SEUR,,,0.9977,0.9977,0.0,False
+VEUR,,,1.4424,0.9304,-35.4943,False
+EURW,,,0.0,0.3802,,False
+EURAU,,,1.0565,0.2645,-74.967,False
+EUROe,,,0.1227,0.1227,-0.0016,False
+AEUR,,,2.1938,0.0373,-98.2993,False
+EURO3,,,0.0229,0.0229,0.0,False
+eEUR,,,0.0167,0.0167,0.0,False
+haEUR,,,0.0,0.0057,,False
+EURD,,,0.5605,0.0018,-99.6712,False
+QEURO,,,0.0,0.0011,,False
+All euro coins,,,585.6197,755.4796,29.0052,

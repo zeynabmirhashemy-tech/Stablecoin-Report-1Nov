@@ -1,0 +1,9 @@
+coin,ratio,minimum_ratio,date,type,calculation
+ZCHF,1.3551,,1 Nov 2026,Crypto collateral,"collateral USD 57,755,494 x 0.82122 / supply CHF 35,000,411"
+HCHF,2.8266,1.1,1 Nov 2026,Crypto collateral,"collateral USD 164,483.00 x 0.82122 / supply CHF 47,788"
+CHFm,1.9289,1.5,20 Nov 2026,Crypto collateral,collateral USDm / USD value of CHFm outstanding (Mento dashboard)
+CHFAU,1.0,,by design,"Reserves, 1:1 by design",no published figure for 1 Nov
+VCHF,1.0,,by design,"Reserves, 1:1 by design",no published figure for 1 Nov
+CHF24,1.0,,by design,"Reserves, 1:1 by design",no published figure for 1 Nov
+USDT,1.0433,,30 Sep 2026,"Reserves, reported",assets / liabilities (Tether attestation)
+USDC,1.0014,,30 Sep 2026,"Reserves, reported",reserves / USDC outstanding (Circle)

@@ -1,0 +1,18 @@
+group,part,1_may,1_nov,change_%,share_%_1_nov
+"Type of backing (US-dollar coins, USD bn)",Algorithmic,0.7406,0.6857,-7.4247,0.2297
+"Type of backing (US-dollar coins, USD bn)",Crypto-backed,27.3588,26.7651,-2.1701,8.9651
+"Type of backing (US-dollar coins, USD bn)",Fiat-backed,283.6313,271.0957,-4.4197,90.8052
+"Blockchain (all coins, USD bn)",Ethereum,159.6475,141.8026,-11.1776,47.5607
+"Blockchain (all coins, USD bn)",Tron,89.0944,94.4328,5.9918,31.6728
+"Blockchain (all coins, USD bn)",Solana,14.9042,14.6974,-1.3876,4.9295
+"Blockchain (all coins, USD bn)",BSC,14.5135,14.1077,-2.796,4.7317
+"Blockchain (all coins, USD bn)",Hyperliquid L1,5.051,6.6877,32.4039,2.2431
+"Blockchain (all coins, USD bn)",Base,4.9587,5.1688,4.2376,1.7336
+"Blockchain (all coins, USD bn)",All other blockchains,23.7843,21.254,-10.6386,7.1286
+Currency (USD m),US dollar,310467.8069,296391.7901,-4.5338,99.4099
+Currency (USD m),Euro,681.7569,837.0197,22.7739,0.2807
+Currency (USD m),Russian rouble,549.5404,587.9452,6.9885,0.1972
+Currency (USD m),Japanese yen,26.3375,153.2467,481.8569,0.0514
+Currency (USD m),Swiss franc,42.8241,45.4515,6.1354,0.0152
+Currency (USD m),Other currencies,185.346,135.6465,-26.8145,0.0455
+All stablecoins (USD bn),All stablecoins,311.9536,298.1511,-4.4245,100.0

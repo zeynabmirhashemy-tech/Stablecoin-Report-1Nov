@@ -1,0 +1,5 @@
+type,usd_bn_per_year,stablecoin_share_of_all_payments_of_this_type_%,share_%
+Business-to-business (B2B),226.0,0.01,57.9487
+Consumer-to-consumer (C2C),77.0,0.37,19.7436
+Consumer-to-business (C2B),76.0,0.11,19.4872
+Business-to-consumer (B2C),11.0,0.01,2.8205

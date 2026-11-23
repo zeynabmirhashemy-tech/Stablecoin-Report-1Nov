@@ -1,0 +1,4 @@
+coin,chain,endpoint,supply_today
+CHFAU,Ethereum,https://eth.drpc.org,33953792.92
+CHFAU,Base,https://base.drpc.org,709.0
+CHFAU,Polygon,https://polygon.drpc.org,0.0
